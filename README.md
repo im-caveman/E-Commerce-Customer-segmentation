@@ -43,4 +43,6 @@ The dataset, sourced from the UCI Machine Learning Repository, contains transact
   - **Testing the Predictions**: _Validate the model’s performance and interpret the results._
 
   - **Conclusion**: _Summarize key findings and provide actionable recommendations for the business._
-![- visual selection(1)](https://github.com/user-attachments/assets/976dcc0a-60ce-415e-a485-4cd4d14280e0)
+![- visual selection(1)](https://github.com/user-attachments/assets/0c440839-93ad-4833-af71-8bcbeb774552)
+
+
